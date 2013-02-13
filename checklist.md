@@ -9,6 +9,7 @@ Test
 + App tested by Project Sponsor
 + App approved by Project Sponsor
 + App passes Technology Services security scan
+
 Poise for launch
 ---
 + App switched from development to production database OR Existing data from older app migrated to new database and test data removed
@@ -20,6 +21,7 @@ Poise for launch
 + Launch communicated with internal stakeholders
 + Launch communicated with external stakeholders
 + E-mail notifications are turned on and point to correct recipients
+
 Launch
 ---
 + Change management request submitted
