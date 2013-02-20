@@ -1,23 +1,23 @@
 Test
 ---
 + App meets functional requirements
-+ App tested and functional in IE7+, Firefox 3+, Chrome and Safari
++ App tested and functional in IE8+, Firefox, Chrome and Safari
 + App complies with accessibility checklist
 + App complies with VCU Libraries and VCU design/branding/style guidelines
 + App works off-campus and through VPN
-+ App tested by LIS and/or "novice user" if possible
++ App passes Technology Services security scan
++ App tested by systems staff and/or "novice user" if possible
 + App tested by Project Sponsor
 + App approved by Project Sponsor
-+ App passes Technology Services security scan
 
 Poise for launch
 ---
 + App switched from development to production database OR Existing data from older app migrated to new database and test data removed
 + All users/groups are designated in ACL or otherwise given access
-+ App tested by LIS on production database
++ App tested by systems staff on production database
 + App tested, approved by Project Sponsor on production database
 + All apps dependent on production database meet functional requirements
-+ Launch date/time set, communicated with Project Sponsor and LIS
++ Launch date/time set, communicated with Project Sponsor and systems staff
 + Launch communicated with internal stakeholders
 + Launch communicated with external stakeholders
 + E-mail notifications are turned on and point to correct recipients
